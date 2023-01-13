@@ -11476,6 +11476,10 @@ html {
   background-position: bottom;
 }
 
+#contact {
+  background-color: pink;
+}
+
 @media (min-width: 992px) {
   .masthead {
     padding-top: calc(6rem + 104px);
@@ -11538,10 +11542,10 @@ html {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background-color: var(--bs-pink);
   color: #fff;
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: blueviolet;
 }
