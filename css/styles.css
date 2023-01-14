@@ -11453,6 +11453,7 @@ html {
   background-color: pink;
   background-image: url(../assets/Wave\ \(1\).svg);
   background-repeat: no-repeat;
+  background-size: 100%;
   background-position: bottom;
 
 }
@@ -11472,6 +11473,7 @@ html {
 #about {
   background-color: pink;
   background-image: url(../assets/Wave\ \(1\).svg);
+  background-size: 100%;
   background-repeat: no-repeat;
   background-position: bottom;
 }
@@ -11498,6 +11500,7 @@ html {
   background-color: pink;
   background-image: url(../assets/Wave\ \(1\).svg);
   background-repeat: no-repeat;
+  background-size: 100%;
   background-position: bottom;
 }
 .portfolio .portfolio-item {
